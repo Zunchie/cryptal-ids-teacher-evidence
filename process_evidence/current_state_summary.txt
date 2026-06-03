@@ -1,0 +1,18 @@
+Current state summary.
+
+Source repository:
+- Zunchie/cryptal-rebuild-import
+- Private
+- Default branch: main
+- Latest verified commit found: 1c2817e Add controlled pilot result review decision contract (#1789)
+
+Target teacher-view repository:
+- Zunchie/cryptal-ids-teacher-evidence
+- Public
+- Existing repo inspected before publishing
+- Repo was empty before this teacher-view content was pushed
+
+Project status:
+- Unfinished private work-in-progress
+- Evidence supports sustained process work, documentation, GitHub workflow, validation, and repair
+- Public view excludes implementation and private history
