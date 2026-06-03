@@ -1,0 +1,22 @@
+# Evidence Index
+
+- `README.md`: purpose and boundaries of the public teacher-view repo.
+- `PROJECT_OVERVIEW.md`: what the project attempted and why it was challenging.
+- `CURRENT_STATUS.md`: current factual state from verified repo evidence.
+- `WORK_LOG_SUMMARY.md`: date range, active days, and active-session hours.
+- `LEARNING_REFLECTION.md`: first-person reflection on learning and unfinished status.
+- `PRIVACY_NOTE.md`: why the source repo remains private and what this repo excludes.
+- `GITHUB_WORKFLOW_SUMMARY.md`: evidence of issues, pull requests, checks, and human-gated workflow.
+- `TECHNICAL_ARCHITECTURE_SUMMARY.md`: high-level architecture summary without source code.
+- `FAILURE_AND_REPAIR_EXAMPLES.md`: examples of blockers, repairs, and lessons learned.
+- `WRITTEN_EVIDENCE_EXPLANATION.md`: written replacement for screenshot evidence.
+- `WHAT_IS_NOT_INCLUDED.md`: explicit exclusion list.
+- `docs/SELECTED_DECISION_RECORDS_SUMMARY.md`: summary of decision-record practice.
+- `docs/PROJECTPROXY_L4_SUMMARY.md`: ProjectProxy L4 summary.
+- `docs/RESEARCH_LANE_SUMMARY.md`: Research Lane summary.
+- `docs/BUILD_OPERATOR_SUMMARY.md`: build-operator summary.
+- `process_evidence/commit_history_summary.txt`: safe commit-message evidence.
+- `process_evidence/pr_issue_summary.md`: safe PR/issue metadata summary.
+- `process_evidence/repo_structure_summary.txt`: shallow structure summary.
+- `process_evidence/current_state_summary.txt`: current state summary.
+- `process_evidence/safety_scan_report.txt`: sensitive-marker scan result.
