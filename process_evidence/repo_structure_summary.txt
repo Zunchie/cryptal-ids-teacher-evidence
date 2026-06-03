@@ -1,0 +1,19 @@
+Shallow public-safe structure summary.
+
+The original private repo is not copied here. This summary avoids full source files and private implementation details.
+
+Inferred high-level source repo areas from verified project evidence:
+
+cryptal-rebuild-import/
+  docs/
+    decision records, contracts, diagnostics, validation notes
+  reports/
+    summarized validation and process artifacts
+  scripts/
+    private ProjectProxy implementation area, not copied
+  tests/
+    private validation and regression tests, not copied
+  workflow configuration area/
+    project checks and gates, not copied
+
+This public repo contains only teacher-safe summaries.
