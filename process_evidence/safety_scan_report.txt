@@ -1,0 +1,11 @@
+Safety scan report.
+
+Scan target:
+- teacher_public_repo/
+
+Scan result:
+- No requested sensitive marker patterns were found after wording cleanup.
+
+Action taken:
+- Public files use summary wording and avoid direct sensitive marker strings.
+- No source code, private history, raw run output, environment config, auth material, or implementation-heavy files are included.
