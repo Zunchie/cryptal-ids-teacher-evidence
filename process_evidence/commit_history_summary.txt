@@ -1,0 +1,19 @@
+Safe recent commit-message summary from GitHub connector metadata.
+
+No patches, diffs, or source code are included.
+
+Latest verified commit:
+- 1c2817e Add controlled pilot result review decision contract (#1789)
+  Date: 2026-06-03 02:02:01 America/Los_Angeles
+
+Selected recent process commits:
+- ddb73c0 Controlled pilot rerun result review (#1787)
+- fce8904 Repair controlled pilot result review action support (#1785)
+- 3b94baf Add controlled pilot rerun result review contract (#1781)
+- be9dba4 Register controlled pilot rerun contract action (#1775)
+- f9df484 Add controlled pilot planner architecture contract (#1763)
+- fea3275 Repair controlled pilot rerun authority routing (#1755)
+- 41bbf62 Implement unsupported action auto repair chain (#1731)
+- 27008e5 Authority graph integrity checker implementation (#1635)
+- c0d7cb7 Route-support next-action marker repair (#1631)
+- 3509c89 First-goal acceptance result decision action registry support (#1611)
